@@ -9,7 +9,7 @@ The first dashboard is about Citi Bike facts in NYC, showing the number of recor
 ## NYC vs. Des Moines
 
 Our analysis is mainly based on three resources: (1) [ArcGIS Hub](http://hub.arcgis.com/datasets/esri::zip-code-1/data?geometry=82.440%2C-0.073%2C31.463%2C76.663&orderBy=STATE_NAME)
-, (2) [US Census](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219), (3) [Data USA](https://datausa.io/profile/geo/). Please view our [dashboards]() together with the analyis.
+, (2) [US Census](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219), (3) [Data USA](https://datausa.io/profile/geo/). Please view our [dashboards](https://public.tableau.com/profile/loc.nguyen2805#!/vizhome/Practice_15922039663870/CHALLENGE?publish=yes) together with the analyis.
 
 In the population dashboard, NYC population is surely higher than Des Moines. The NYC map indicates that, in the downtown area, even though having smaller population, the number of rides is about twice the population in those zipcodes. Therefore, since Des Moines downtown area has approximately 20,000 residents, we might be able to expect about 40,000 rides on average per month.
 
